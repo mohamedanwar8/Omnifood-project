@@ -1,0 +1,13 @@
+{
+    "icons": [{
+            "src": "D:/CS/kalbonyan elmarsos/part2. html & css/html-css-course-master/final/09-Omnifood-Optimizations/img/favicon-192.png",
+            "type": "image/png",
+            "size": "192x192"
+        },
+        {
+            "src": "D:/CS/kalbonyan elmarsos/part2. html & css/html-css-course-master/final/09-Omnifood-Optimizations/img/favicon-512.png",
+            "type": "image/png",
+            "size": "512x512"
+        }
+    ]
+}
